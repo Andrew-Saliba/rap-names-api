@@ -13,20 +13,71 @@ const rapperNames = {
       'birthName':'Chancellor Bennett',
       'birthLocation':'Chicago, Illinois',
     },
-    'Drake':{
+    'drake':{
         'dateOfBirth': '1986-10-24',
         'birthName':'Aubrey Drake Graham',
         'birthLocation':'Toronto, Ontario, Canada',
     },
-    'Kendrick Lamar':{
+    'kendrick lamar':{
         'dateOfBirth': '1987-06-17',
         'birthName':'Kendrick Lamar Duckworth',
         'birthLocation':'Compton, California',
     },
-    'J. Cole':{
+    'j cole':{
         'dateOfBirth': '1985-01-28',
         'birthName':'Jermaine Lamar Cole',
         'birthLocation':'Frankfurt, Germany',
+    },
+    'jay-z': {
+        'dateOfBirth': '1969-12-04',
+        'birthName': 'Shawn Corey Carter',
+        'birthLocation': 'New York City, New York',
+    },
+    'kanye west': {
+        'dateOfBirth': '1977-06-08',
+        'birthName': 'Kanye Omari West',
+        'birthLocation': 'Atlanta, Georgia',
+    },
+    'lil wayne': {
+        'dateOfBirth': '1982-09-27',
+        'birthName': 'Dwayne Michael Carter Jr.',
+        'birthLocation': 'New Orleans, Louisiana',
+    },
+    'eminem': {
+        'dateOfBirth': '1972-10-17',
+        'birthName': 'Marshall Bruce Mathers III',
+        'birthLocation': 'St. Joseph, Missouri',
+    },
+    'snoop dogg': {
+        'dateOfBirth': '1971-10-20',
+        'birthName': 'Calvin Cordozar Broadus Jr.',
+        'birthLocation': 'Long Beach, California',
+    },
+    'nas': {
+        'dateOfBirth': '1973-09-14',
+        'birthName': 'Nasir bin Olu Dara Jones',
+        'birthLocation': 'New York City, New York',
+    },
+    'ice cube': {
+        'dateOfBirth': '1969-06-15',
+        'birthName': 'O’Shea Jackson',
+        'birthLocation': 'Los Angeles, California',
+    },
+    'notorious b.i.g.': {
+        'dateOfBirth': '1972-05-21',
+        'birthName': 'Christopher Wallace',
+        'birthLocation': 'Brooklyn, New York City, New York',
+    },
+    'tupac shakur': {
+        'dateOfBirth': '1971-06-16',
+        'birthName': 'Lesane Parish Crooks',
+        'birthLocation': 'East Harlem, New York City, New York',
+    },
+    'cardi b': {
+        'dateOfBirth': '1992-10-11',
+        'birthName': 'Belcalis Marlenis Almánzar',
+        'birthLocation': 'The Bronx, New York City, New York',
+    },
     'unknown':{
         'dateOfBirth': '1923-01-01',
         'birthName':'unknown',
@@ -34,7 +85,6 @@ const rapperNames = {
         },
    
 }
-
 
 
 
